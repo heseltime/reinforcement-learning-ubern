@@ -6,13 +6,7 @@ _See [Reinforcement Learning Goes Deep (Part I): Q-learning Algorithm Implementa
 
 The provided code is an implementation of the Q-learning algorithm tailored for a specific grid world environment. This environment includes an agent, an enemy, and a target, all located within a grid. The goal of the Q-learning algorithm is to learn an optimal policy for the agent to navigate the grid to reach the target while avoiding the enemy.
 
-![Sample Successful Run with Blind Enemy](../assets/video/sample_successful_run_RL_post.mp4)
-
-
-
 https://github.com/heseltime/reinforcement-learning-ubern/assets/66922223/4bd2dca4-673d-43bb-b48b-ec27775a8534
-
-
 
 ### Key Components
 
