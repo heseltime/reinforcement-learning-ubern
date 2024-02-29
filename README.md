@@ -8,6 +8,12 @@ The provided code is an implementation of the Q-learning algorithm tailored for 
 
 ![Sample Successful Run with Blind Enemy](../assets/video/sample_successful_run_RL_post.mp4)
 
+
+
+https://github.com/heseltime/reinforcement-learning-ubern/assets/66922223/4bd2dca4-673d-43bb-b48b-ec27775a8534
+
+
+
 ### Key Components
 
 * Initialization and Episode Loop: The run_episode_gwenv function initializes the episode by resetting the environment, which provides the initial state. The episode then runs for a maximum number of steps defined by _maxsteps, simulating the agent's interactions within the environment.
